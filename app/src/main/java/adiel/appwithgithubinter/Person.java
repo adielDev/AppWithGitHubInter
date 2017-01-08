@@ -5,4 +5,5 @@ package adiel.appwithgithubinter;
  */
 
 public class Person {
+    String name;
 }
